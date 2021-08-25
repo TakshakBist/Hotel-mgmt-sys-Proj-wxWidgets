@@ -1,0 +1,4 @@
+﻿  food.cpp
+E:\p\WindowsProject1\WindowsProject1\mainCode.h(232,20): warning C4018: '<': signed/unsigned mismatch
+E:\p\WindowsProject1\WindowsProject1\mainCode.h(308,20): warning C4018: '<': signed/unsigned mismatch
+  WindowsProject1.vcxproj -> E:\p\WindowsProject1\Debug\WindowsProject1.exe
